@@ -4,7 +4,7 @@
 
 This project demonstrates face detection in images and video using AI techniques in Python.
 
-![Face Detection]()
+
 
 ## Table of Contents
 
